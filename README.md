@@ -12,7 +12,7 @@ Após instalação crie uma pasta em local de sua preferência, acesse o termina
 
 Vagrant init -m
 
-O comando irá criar um arquivo com o nome Vagrantfile, apague o conteúdo  e cole o script abaixo e salve.
+O comando irá criar um arquivo com o nome Vagrantfile, apague o conteúdo  e cole o script do arquivo "Vagrantfile".
 
 Em seguida execute o comando:
 
