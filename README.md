@@ -2,7 +2,9 @@
 
 Para quem está estudando DevOps deixo uma dica de criação de 2 VM Ubuntu no Windows 10 utilizando Vagrant:
 Necessário instalar o VirtualBox e o Vagrant, links abaixo:
+
 https://www.virtualbox.org/
+
 https://www.vagrantup.com/
 
 
