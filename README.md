@@ -7,6 +7,7 @@ https://www.vagrantup.com/
 
 
 Após instalação crie uma pasta em local de sua preferência, acesse o terminal ou o VSCode, navegue até a pasta  e execute o comando:
+
 Vagrant init -m
 
 O comando irá criar um arquivo com o nome Vagrantfile, apague o conteúdo  e cole o script abaixo e salve.
